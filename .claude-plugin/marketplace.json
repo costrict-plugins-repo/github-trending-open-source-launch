@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "open-source-launch-skill",
+  "description": "Claude Code skill for preparing open-source repositories for a clear, trusted public launch.",
+  "owner": {
+    "name": "Omar Khaled",
+    "email": "hello@omar-khaled.com",
+    "url": "https://github.com/OMARVII"
+  },
+  "plugins": [
+    {
+      "name": "open-source-launch",
+      "source": "./",
+      "description": "Prepare any open-source repository for a clear, trusted public launch.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Omar Khaled",
+        "email": "hello@omar-khaled.com"
+      },
+      "homepage": "https://github.com/OMARVII/open-source-launch-skill",
+      "repository": "https://github.com/OMARVII/open-source-launch-skill",
+      "license": "MIT",
+      "keywords": [
+        "open-source",
+        "launch-readiness",
+        "repository-audit",
+        "readme",
+        "developer-tools",
+        "claude-code"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+interface:
+  display_name: "Open Source Launch"
+  short_description: "Prepare any open-source repository for a clear, trusted public launch."
+  brand_color: "#1F2937"
+  default_prompt: "Use $open-source-launch to audit this repo for GitHub launch readiness with evidence-backed blockers and next actions."
+
+policy:
+  allow_implicit_invocation: true

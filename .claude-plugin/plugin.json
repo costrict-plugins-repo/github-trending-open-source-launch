@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "open-source-launch-skill",
+  "description": "Prepare any open-source repository for a clear, trusted public launch.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Omar Khaled",
+    "email": "hello@omar-khaled.com"
+  },
+  "homepage": "https://github.com/OMARVII/open-source-launch-skill",
+  "repository": "https://github.com/OMARVII/open-source-launch-skill",
+  "license": "MIT",
+  "keywords": [
+    "open-source",
+    "launch-readiness",
+    "repository-audit",
+    "developer-tools",
+    "claude-code",
+    "claude-skills"
+  ]
+}
